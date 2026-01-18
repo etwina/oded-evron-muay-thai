@@ -1,4 +1,3 @@
-# docs/about.md
 
 # מי אנחנו
 
