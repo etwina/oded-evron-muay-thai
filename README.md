@@ -20,7 +20,7 @@
 ## עמודים מרכזיים באתר
 - שאלות נפוצות: https://www.thai-boxing.co.il/שאלות-נפוצות
 - תקנון: https://www.thai-boxing.co.il/תקנון
-- תנאי שימוש: https://www.thai-boxing.co.il/תנאי-ה שימוש
+- תנאי שימוש: https://www.thai-boxing.co.il/תנאי-השימוש
 - מדיניות פרטיות: https://www.thai-boxing.co.il/מדיניות-פרטיות
 - הצהרת נגישות: https://www.thai-boxing.co.il/הצהרת-נגישות
 
